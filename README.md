@@ -1,4 +1,12 @@
-# Machine Learning Introduction
+# Machine Learning Portfolio
+
+## About Me
+
+Im a student of Master of Information Technology at CQUniversity, Melbourne. My major is in Networks and Information Security with a minor in Artificial Intelligence.
+
+I am currently building hands-on experience in cybersecurity, networking, and cloud technologies. I am aiming to start my career as a SOC Analyst (L1).
+
+## Machine Learning Introduction
 
 Deep learning techniques are widely used to solve complex pattern recognition and prediction problems in areas such as computer vision and financial forecasting. Neural networks can learn meaningful representations from large datasets, enabling models to perform tasks like image classification, regression, and time-series prediction with high accuracy (Google Cloud, 2019).
 
