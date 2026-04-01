@@ -1,0 +1,6 @@
+BHP Stock Price Prediction Neurons: 20 | Epoch: 20 | RMSE:1.62 | R2: -0.00
+BHP Stock Price Prediction Neurons: 50 | Epoch: 20 | RMSE:1.54 | R2: 0.10
+BHP Stock Price Prediction Neurons: 100 | Epoch: 20 | RMSE:1.08 | R2: 0.55
+BHP Stock Price Prediction Neurons: 20 | Epoch: 50 | RMSE:1.75 | R2: -0.17
+BHP Stock Price Prediction Neurons: 50 | Epoch: 50 | RMSE:0.98 | R2: 0.63
+BHP Stock Price Prediction Neurons: 100 | Epoch: 50 | RMSE:0.90 | R2: 0.69
