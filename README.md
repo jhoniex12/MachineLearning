@@ -63,16 +63,16 @@ This repository contains multiple machine learning and deep learning projects de
 
 ---
 
-## 📌 Author
-
-**Jhoniex Gamayon**  
-Master of Information Technology (Networks & Information Security)  
-CQUniversity, Melbourne
-
----
-
 ## 🚀 Future Improvements
 
 - Add model comparison (CNN vs Transfer Learning)
 - Improve accuracy using hyperparameter tuning
 - Deploy models using cloud platforms
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/jhoniex12
+- GitHub: https://github.com/jhoniex12
+- Location: Melbourne, Australia
